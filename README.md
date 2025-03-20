@@ -1,4 +1,4 @@
-# FUSION-TWAS-pipeline
+# FUSION environment
 
 Follow the steps in FUSION github to download files
 
