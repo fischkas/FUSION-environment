@@ -10,7 +10,7 @@ FUSION is only compatible with R 3.6 and requires a number of packages that are 
 For this reason we have gathered all these packages in an environment called FUSION. To download and activate the environment:
 
 ```bash
-git clone https://github.com/fischkas/FUSION-environment.git
-cd FUSION
+git clone https://github.com/fischkas/FUSION-environment.git 
+cd FUSION-environment
 conda env create --file FUSION.yml
 source activate FUSION
